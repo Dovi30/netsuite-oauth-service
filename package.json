@@ -1,0 +1,15 @@
+{
+  "name": "netsuite-oauth-service",
+  "version": "1.0.0",
+  "description": "NetSuite OAuth automation service",
+  "main": "oauth-server-production.js",
+  "scripts": {
+    "start": "node oauth-server-production.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
